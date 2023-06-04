@@ -5,10 +5,9 @@
 ### Tools
 
 Built using the following;
+
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
-
-I also used [this tutorial](https://www.youtube.com/watch?v=0kL6nhutjQ8) by [Matt Frances](https://github.com/mattfrances) as a start point.
 
 ### Setup
 
